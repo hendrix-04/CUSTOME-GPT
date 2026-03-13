@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+azure-cognitiveservices-speech
+yt-dlp
+requests
+python-dotenv
